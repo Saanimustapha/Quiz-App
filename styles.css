@@ -13,7 +13,7 @@ body {
     background: #fff;
     width: 90%;
     max-width: 600px;
-    border-radius: 5px;
+    border-radius: 6px;
     margin: 100px auto 0;
     padding: 20px;
 }
@@ -55,7 +55,7 @@ body {
 #next-btn {
     color: #001e4d;
     background: #fff;
-    border-radius: 5px;
+    border-radius: 6px;
     padding: 10px 50px;
     width: 150px;
     margin: 20px auto 0;
